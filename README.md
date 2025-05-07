@@ -45,7 +45,7 @@ A full-stack web platform for student team member management, built with MongoDB
 
 1. Open a terminal and clone the repository:
    ```bash
-   git clone https://github.com/drgeekg/FALCONS_FSDCT2.git
+   git clone https://github.com/Vaibhav964724/SUMMIT_FSD.git
    ```
 
 2. Navigate to the project directory:
